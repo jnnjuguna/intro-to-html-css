@@ -1,0 +1,57 @@
+body{
+    font-family:'Italianno', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+button { 
+    color: white;
+    border-style:groove;
+    border-radius: 10cm;
+    border-color: blue;
+    background-color: blue;
+
+    width: 50%;
+    padding: 5%;
+}
+
+a {
+   font-style:italic; 
+   color: blue;
+   stroke-width: 0%;
+   text-decoration: none
+}
+
+a:hover{
+    color: green;
+    font-size: large;
+    background-color: black;
+}
+button:hover{
+    background-color: black;
+    color: white;
+    border-color: red;
+}
+ol{
+    color: blue;
+    background-color: lightblue;
+    border-width: 24px;
+    border-radius: 15px;
+    border-color: blueviolet;
+    padding-left: 15%;
+    padding-top: 5%;
+}
+
+ol li{
+    border-bottom: 10px;
+    border-width: 5px;
+    border-color: black;
+}
+
+ol li:hover{
+    font-size: 20px;
+    padding: 3%;
+    color: red;
+}
+
+#cow{
+    color: red;
+}
